@@ -4,7 +4,7 @@ just a little command line tool to save having to manually have to factor number
 
 ## download link:
 
-[download compiled for appleSilicone]()
+[download compiled for appleSilicone](https://github.com/vulbyte/factors_of-cli/raw/master/target/release/factors_of)
 
 ## optional flags:
 
