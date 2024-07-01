@@ -1,1 +1,6 @@
 /target
+
+!/target/release/factors_of
+
+#macOS files 
+.DS_Store
