@@ -14,7 +14,8 @@ requirements:
 that should be it. once done simply run:
 
 ```
-curl --proto 'http' https://raw.githubusercontent.com/vulbyte/factors_of-cli/master/install_factors_of.sh | sh
+curl -SL https://raw.githubusercontent.com/vulbyte/factors_of-cli/master/install_factors_of.sh -o install_factors_of.sh
+sudo sh install_factors_of.sh
 ```
 
 ## optional flags:
