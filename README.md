@@ -2,9 +2,20 @@
 
 just a little command line tool to save having to manually have to factor numbers as it can be a pain in the ass
 
-## download link:
+## install script:
 
-[download compiled for appleSilicone](https://github.com/vulbyte/factors_of-cli/raw/master/target/release/factors_of)
+> note: this is only a valid install script for unix systems with bash support
+
+requirements:
+
+- [git](https://git-scm.com/downloads)
+- [cargo](https://www.rust-lang.org/tools/install)
+
+that should be it. once done simply run:
+
+```
+curl --proto 'http' http://www.github.com/vulbyte/factors_of-cli/install_factors_of.sh | sh
+```
 
 ## optional flags:
 
@@ -15,3 +26,5 @@ just a little command line tool to save having to manually have to factor number
 ### todo:
 
 add an sh script which easily adds the command as an alias to your ~/.zshrc
+
+## enjoy! - vulbyte
